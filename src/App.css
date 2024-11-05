@@ -1,0 +1,15 @@
+.white-arrow::after{
+    font-size: 1em;
+    margin-left: -6px;
+    color: white;
+    vertical-align: -3px;
+    content: ">";
+}
+
+.red-arrow::after{
+    font-size: 1em;
+    margin-left: -6px;
+    color: red;
+    vertical-align: -3px;
+    content: ">";
+}
